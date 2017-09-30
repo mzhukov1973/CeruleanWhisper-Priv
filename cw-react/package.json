@@ -6,7 +6,7 @@
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.13"
+    "react-scripts": "1.0.13",
     "autoprefixer": "^7.1.2",
     "babel-runtime": "^6.25.0",
     "browserslist": "^2.3.1",
